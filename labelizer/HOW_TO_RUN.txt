@@ -1,0 +1,4 @@
+Start a terminal in the main folder (this one)
+Execute 'pip install labelImg'
+Start the python script 'labelImg.py'
+Select 'Open Dir' and select the 'Images' folder (put your images in here beforehands)
